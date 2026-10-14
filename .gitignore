@@ -1,0 +1,7 @@
+# Ignore everything
+*
+
+# Except these files
+!.gitignore
+!Political_Parties_and_Personalities.pdf
+!README.md
